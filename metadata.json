@@ -1,0 +1,5 @@
+{
+  "name": "SpaceEdu - Cinematic Earth",
+  "description": "An immersive 3D space-themed landing page featuring a cinematic zoom into Earth using React Three Fiber and GSAP.",
+  "requestFramePermissions": []
+}
