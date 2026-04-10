@@ -1,0 +1,5 @@
+{
+  "name": "Three.js Custom Ball",
+  "description": "A 3D ball using custom geometry and color maps in Three.js.",
+  "requestFramePermissions": []
+}
